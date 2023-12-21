@@ -1,19 +1,11 @@
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ Alessandro Junior
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Majors: Computer Science & Health Science / Minor: Data Science `**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+Soon-to-be graduate with progressive experience writing code and providing insights and answer utilizing data. Seeking a challenging role as a Software Developer. Fast learner that is effective in fast-paced, deadline-driven settings that demand strong organizational and analytical skills.
 
-   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 ---
 
@@ -38,3 +30,6 @@ I'm an indie full-stack developer and content creator building my version of the
 <br />
 
 #
+<details>
+ <summary><h3>👨‍💻 Alessandro's Journey</h3></summary>
+   I am a senior at Birmingham Southern College, and I am from Brazil, contributing to both academic and athletic pursuits. My dual major in Health Science and Computer Science, along with a minor in Data Science, showcases my commitment to extend across the fields of technology and healthcare. As an athlete, I contribute not only on the field but also behind the scenes as a student and resident advisor. Additionally, I have interned for BSC's Athletic Department. Managing sports data and records has sharpened my organizational skills and reinforced my understanding of data analysis. As I approach graduation, I am eager to leverage this diverse range of experiences and skills in a professional setting. My passion for health science, coupled with a foundation in computer and data sciences, positions me as a dynamic candidate ready to contribute to the evolving landscape of Biotechnology.
