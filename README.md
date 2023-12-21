@@ -7,7 +7,6 @@ Soon-to-be graduate with progressive experience writing code and providing insig
 <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
----
 
 ### 🧰 Languages and Tools
 
@@ -30,6 +29,11 @@ Soon-to-be graduate with progressive experience writing code and providing insig
 <br />
 
 #
+<h2 align="left">:heart: Let's get connected:</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-alessandrojr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandrojr/)](https://www.linkedin.com/in/alessandrojr) 
+
+---
 <details>
  <summary><h3>👨‍💻 Alessandro's Journey</h3></summary>
    I am a senior at Birmingham Southern College, and I am from Brazil, contributing to both academic and athletic pursuits. My dual major in Health Science and Computer Science, along with a minor in Data Science, showcases my commitment to extend across the fields of technology and healthcare. As an athlete, I contribute not only on the field but also behind the scenes as a student and resident advisor. Additionally, I have interned for BSC's Athletic Department. Managing sports data and records has sharpened my organizational skills and reinforced my understanding of data analysis. As I approach graduation, I am eager to leverage this diverse range of experiences and skills in a professional setting. My passion for health science, coupled with a foundation in computer and data sciences, positions me as a dynamic candidate ready to contribute to the evolving landscape of Biotechnology.
